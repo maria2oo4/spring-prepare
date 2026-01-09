@@ -1,6 +1,6 @@
 package com.meta.springprepare.calculator;
 
-public class calculator {
+public class Calculator {
     public Double operate(double num1, String op, double num2) {
         switch (op) {
             case "*":
